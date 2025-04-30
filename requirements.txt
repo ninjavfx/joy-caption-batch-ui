@@ -1,0 +1,10 @@
+torch==2.4.0
+huggingface_hub==0.24.3
+accelerate
+transformers==4.43.3
+sentencepiece
+spaces
+protobuf
+tqdm
+bitsandbytes
+gradio==5.25.2
